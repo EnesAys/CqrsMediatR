@@ -1,2 +1,2 @@
 # CqrsMediatR
-Cqrs and MediatR Example with .Net 6
+Cqrs, MediatR, Automapper Crud Example with .Net 6
