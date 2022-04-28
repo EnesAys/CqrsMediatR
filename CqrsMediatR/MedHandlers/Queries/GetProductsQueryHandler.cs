@@ -1,10 +1,10 @@
 ﻿using AutoMapper;
-using CqrsMediatR.MedHandlers.Queries.QueryModels.Requests;
-using CqrsMediatR.MedHandlers.Queries.QueryModels.Responses;
+using CqrsMediatR.MedHandlers.Queries.Requests;
+using CqrsMediatR.MedHandlers.Queries.Responses;
 using CqrsMediatR.Repositories;
 using MediatR;
 
-namespace CqrsMediatR.MedHandlers.Queries.QueryModels
+namespace CqrsMediatR.MedHandlers.Queries
 {
     public class GetProductsQueryHandler : IRequestHandler<GetProductsQueryRequest, List<GetProductsQueryResponse>>
     {

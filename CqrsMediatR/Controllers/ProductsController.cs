@@ -1,5 +1,5 @@
 ﻿using CqrsMediatR.MedHandlers.Commands.Requests;
-using CqrsMediatR.MedHandlers.Queries.QueryModels.Requests;
+using CqrsMediatR.MedHandlers.Queries.Requests;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 

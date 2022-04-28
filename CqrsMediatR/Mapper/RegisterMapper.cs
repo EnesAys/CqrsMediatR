@@ -2,7 +2,7 @@
 using CqrsMediatR.Entities;
 using CqrsMediatR.MedHandlers.Commands.Requests;
 using CqrsMediatR.MedHandlers.Commands.Responses;
-using CqrsMediatR.MedHandlers.Queries.QueryModels.Responses;
+using CqrsMediatR.MedHandlers.Queries.Responses;
 
 namespace CqrsMediatR.Mapper
 {

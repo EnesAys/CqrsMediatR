@@ -1,4 +1,4 @@
-﻿namespace CqrsMediatR.MedHandlers.Queries.QueryModels.Responses
+﻿namespace CqrsMediatR.MedHandlers.Queries.Responses
 {
     public class GetProductByIdQueryResponse
     {
